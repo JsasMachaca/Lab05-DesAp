@@ -1,5 +1,12 @@
 # Lab05-DesAp
-## Carpeta del Trabajo Propuesto:
+
+### Descargar: 
+``sh
+git clone https://github.com/JsasMachaca/Lab05-DesAp.git
+```
+
+### Carpeta del Trabajo Propuesto:
+
 ```sh
 cd actividad
 ```
