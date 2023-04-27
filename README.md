@@ -1,4 +1,4 @@
-# Laboratirio 05 Desarrolo de Aplicaciones en Internet
+# Laboratorio 05 Desarrollo de Aplicaciones en Internet
 
 ### Descargar: 
 ```sh
