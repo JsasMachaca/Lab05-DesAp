@@ -1,4 +1,4 @@
-# Lab05-DesAp
+# Laboratirio 05 Desarrolo de Aplicaciones en Internet
 
 ### Descargar: 
 ```sh
