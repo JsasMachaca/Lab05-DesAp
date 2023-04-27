@@ -2,7 +2,7 @@
 
 ### Descargar: 
 ```sh
-git clone https://github.com/JsasMachaca/Lab05-DesAp.git && cd Lab-DesAp/
+git clone https://github.com/JsasMachaca/Lab05-DesAp.git && cd Lab05-DesAp/
 ```
 
 ### Carpeta del Trabajo Propuesto:
