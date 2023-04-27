@@ -1,7 +1,7 @@
 # Lab05-DesAp
 
 ### Descargar: 
-``sh
+```sh
 git clone https://github.com/JsasMachaca/Lab05-DesAp.git
 ```
 
